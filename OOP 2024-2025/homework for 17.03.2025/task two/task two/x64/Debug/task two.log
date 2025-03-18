@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\University\OOP 2024-2025\homework for 17.03.2025\task two\task two\main.cpp(35,23): warning C4244: '=': conversion from 'std::streamoff' to 'unsigned int', possible loss of data
+D:\University\OOP 2024-2025\homework for 17.03.2025\task two\task two\main.cpp(49,20): warning C4018: '<': signed/unsigned mismatch
+D:\University\OOP 2024-2025\homework for 17.03.2025\task two\task two\main.cpp(62,20): warning C4018: '<': signed/unsigned mismatch
+D:\University\OOP 2024-2025\homework for 17.03.2025\task two\task two\main.cpp(81,26): warning C4018: '<': signed/unsigned mismatch
+  task two.vcxproj -> D:\University\OOP 2024-2025\homework for 17.03.2025\task two\x64\Debug\task two.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\OOP 2024-2025\\homework for 3.3.2025\\task 2 - quadratic formula\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05A1113F-5B73-4C29-BBD4-1A305A69A3D2}|task 2 - quadratic formula\\task 2 - quadratic formula.vcxproj|D:\\University\\OOP 2024-2025\\homework for 3.3.2025\\task 2 - quadratic formula\\task 2 - quadratic formula\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05A1113F-5B73-4C29-BBD4-1A305A69A3D2}|task 2 - quadratic formula\\task 2 - quadratic formula.vcxproj|solutionrelative:task 2 - quadratic formula\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\University\\OOP 2024-2025\\homework for 3.3.2025\\task 2 - quadratic formula\\task 2 - quadratic formula\\main.cpp",
+              "RelativeDocumentMoniker": "task 2 - quadratic formula\\main.cpp",
+              "ToolTip": "D:\\University\\OOP 2024-2025\\homework for 3.3.2025\\task 2 - quadratic formula\\task 2 - quadratic formula\\main.cpp",
+              "RelativeToolTip": "task 2 - quadratic formula\\main.cpp",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwCgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-03T20:17:45.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

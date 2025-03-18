@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\OOP 2024-2025\\homework for 3.3.2025\\task1 - triangle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17E48F4B-7B65-4084-9807-A22511B8DAB5}|task1 - triangle\\task1 - triangle.vcxproj|D:\\University\\OOP 2024-2025\\homework for 3.3.2025\\task1 - triangle\\task1 - triangle\\triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17E48F4B-7B65-4084-9807-A22511B8DAB5}|task1 - triangle\\task1 - triangle.vcxproj|solutionrelative:task1 - triangle\\triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E48F4B-7B65-4084-9807-A22511B8DAB5}|task1 - triangle\\task1 - triangle.vcxproj|D:\\University\\OOP 2024-2025\\homework for 3.3.2025\\task1 - triangle\\task1 - triangle\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17E48F4B-7B65-4084-9807-A22511B8DAB5}|task1 - triangle\\task1 - triangle.vcxproj|solutionrelative:task1 - triangle\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E48F4B-7B65-4084-9807-A22511B8DAB5}|task1 - triangle\\task1 - triangle.vcxproj|D:\\University\\OOP 2024-2025\\homework for 3.3.2025\\task1 - triangle\\task1 - triangle\\triangle.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17E48F4B-7B65-4084-9807-A22511B8DAB5}|task1 - triangle\\task1 - triangle.vcxproj|solutionrelative:task1 - triangle\\triangle.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "triangle.cpp",
+              "DocumentMoniker": "D:\\University\\OOP 2024-2025\\homework for 3.3.2025\\task1 - triangle\\task1 - triangle\\triangle.cpp",
+              "RelativeDocumentMoniker": "task1 - triangle\\triangle.cpp",
+              "ToolTip": "D:\\University\\OOP 2024-2025\\homework for 3.3.2025\\task1 - triangle\\task1 - triangle\\triangle.cpp",
+              "RelativeToolTip": "task1 - triangle\\triangle.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-03T15:52:25.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "triangle.hpp",
+              "DocumentMoniker": "D:\\University\\OOP 2024-2025\\homework for 3.3.2025\\task1 - triangle\\task1 - triangle\\triangle.hpp",
+              "RelativeDocumentMoniker": "task1 - triangle\\triangle.hpp",
+              "ToolTip": "D:\\University\\OOP 2024-2025\\homework for 3.3.2025\\task1 - triangle\\task1 - triangle\\triangle.hpp",
+              "RelativeToolTip": "task1 - triangle\\triangle.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-03T15:51:53.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\University\\OOP 2024-2025\\homework for 3.3.2025\\task1 - triangle\\task1 - triangle\\main.cpp",
+              "RelativeDocumentMoniker": "task1 - triangle\\main.cpp",
+              "ToolTip": "D:\\University\\OOP 2024-2025\\homework for 3.3.2025\\task1 - triangle\\task1 - triangle\\main.cpp",
+              "RelativeToolTip": "task1 - triangle\\main.cpp",
+              "ViewState": "AgIAACAAAAAAAAAAAAAcwCkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-03T15:46:15.005Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
