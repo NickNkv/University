@@ -1,0 +1,3 @@
+﻿  String.cpp
+D:\Documents\Github\University\OOP 2024-2025\homework for 7.04.2025\Task 1 - String\Task 1 - String\String.cpp(42,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Task 1 - String.vcxproj -> D:\Documents\Github\University\OOP 2024-2025\homework for 7.04.2025\Task 1 - String\x64\Debug\Task 1 - String.exe
