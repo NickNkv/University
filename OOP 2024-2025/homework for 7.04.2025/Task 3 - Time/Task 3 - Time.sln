@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task 3 - Time", "Task 3 - Time\Task 3 - Time.vcxproj", "{E988C727-64D7-49AB-BC8D-5EB54E334643}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E988C727-64D7-49AB-BC8D-5EB54E334643}.Debug|x64.ActiveCfg = Debug|x64
+		{E988C727-64D7-49AB-BC8D-5EB54E334643}.Debug|x64.Build.0 = Debug|x64
+		{E988C727-64D7-49AB-BC8D-5EB54E334643}.Debug|x86.ActiveCfg = Debug|Win32
+		{E988C727-64D7-49AB-BC8D-5EB54E334643}.Debug|x86.Build.0 = Debug|Win32
+		{E988C727-64D7-49AB-BC8D-5EB54E334643}.Release|x64.ActiveCfg = Release|x64
+		{E988C727-64D7-49AB-BC8D-5EB54E334643}.Release|x64.Build.0 = Release|x64
+		{E988C727-64D7-49AB-BC8D-5EB54E334643}.Release|x86.ActiveCfg = Release|Win32
+		{E988C727-64D7-49AB-BC8D-5EB54E334643}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1BDFCAD-D4DB-4211-8066-95B11C3BDC58}
+	EndGlobalSection
+EndGlobal
