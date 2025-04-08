@@ -64,3 +64,28 @@ const char* String::c_str() {
 	return this->string;
 }
 
+size_t String::Length() {
+	return this->capacity;
+}
+
+void String::Clear() {
+	delete[] this->string;
+	this->string = nullptr;
+	this->capacity = 0;
+}
+
+bool String::Empty() {
+	return capacity == 0 ? true : false;
+}
+
+char String::At(size_t position) {
+	if (position < capacity) {
+		return this->string[position];
+	}
+	std::cout << "Invalid index!" << std::endl;
+	std::cout << "Returning 'x' as a default value" << std::endl;
+	return 'x';
+}
+
+
+
