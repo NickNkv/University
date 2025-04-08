@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{0E6EB69B-E876-4F40-B2AB-5E4ED17C99D2}|Task 1 - String\\Task 1 - String.vcxproj|solutionrelative:Task 1 - String\\String.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E6EB69B-E876-4F40-B2AB-5E4ED17C99D2}|Task 1 - String\\Task 1 - String.vcxproj|D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Task 1 - String\\Task 1 - String\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0E6EB69B-E876-4F40-B2AB-5E4ED17C99D2}|Task 1 - String\\Task 1 - String.vcxproj|solutionrelative:Task 1 - String\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0E6EB69B-E876-4F40-B2AB-5E4ED17C99D2}|Task 1 - String\\Task 1 - String.vcxproj|D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Task 1 - String\\Task 1 - String\\String.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0E6EB69B-E876-4F40-B2AB-5E4ED17C99D2}|Task 1 - String\\Task 1 - String.vcxproj|solutionrelative:Task 1 - String\\String.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6EB69B-E876-4F40-B2AB-5E4ED17C99D2}|Task 1 - String\\Task 1 - String.vcxproj|D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Task 1 - String\\Task 1 - String\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E6EB69B-E876-4F40-B2AB-5E4ED17C99D2}|Task 1 - String\\Task 1 - String.vcxproj|solutionrelative:Task 1 - String\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -64,33 +64,33 @@
               "RelativeDocumentMoniker": "Task 1 - String\\String.cpp",
               "ToolTip": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Task 1 - String\\Task 1 - String\\String.cpp*",
               "RelativeToolTip": "Task 1 - String\\String.cpp*",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwFYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-07T21:19:24.05Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "String.hpp",
               "DocumentMoniker": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Task 1 - String\\Task 1 - String\\String.hpp",
               "RelativeDocumentMoniker": "Task 1 - String\\String.hpp",
               "ToolTip": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Task 1 - String\\Task 1 - String\\String.hpp",
               "RelativeToolTip": "Task 1 - String\\String.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-07T21:10:40.512Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Task 1 - String\\Task 1 - String\\main.cpp",
               "RelativeDocumentMoniker": "Task 1 - String\\main.cpp",
               "ToolTip": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Task 1 - String\\Task 1 - String\\main.cpp",
               "RelativeToolTip": "Task 1 - String\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-07T21:09:32.516Z",
               "EditorCaption": ""
