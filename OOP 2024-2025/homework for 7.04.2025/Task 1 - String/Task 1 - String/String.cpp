@@ -22,7 +22,14 @@ String::String(char const* string) {
 }
 
 void String::Copy(const char* str) {
+	char* temp = new (std::nothrow) char[strlen(str) + 1];
+	if (!temp) return;
+	strcpy(temp, str);
+	delete[] this->string;
 
+	this->capacity = strlen(str);
+	this->string = temp;
+	temp = nullptr;
 }
 
 void String::Append(const char* str) {
@@ -46,9 +53,14 @@ void String::Append(const char* str) {
 	this->string[capacity] = '\0';
 }
 
-const char* String::c_str()
-{
-	return this->string;
+const char* String::Combine(const char* str) {
+	String temp(this->string);
+	temp.Append(str);
+
+	return temp.c_str();
 }
 
+const char* String::c_str() {
+	return this->string;
+}
 

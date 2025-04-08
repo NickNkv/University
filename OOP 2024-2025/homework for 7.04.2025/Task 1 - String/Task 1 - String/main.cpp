@@ -3,10 +3,9 @@
 
 int main() {
 	String str1("Nick ");
-	String str2("Neykov");
 
-	str1.Append(str2.c_str());
+	
 
-	std::cout << str1.c_str() << std::endl;
+	std::cout << str1.Combine("Neykov") << std::endl;
 	return 0;
 }

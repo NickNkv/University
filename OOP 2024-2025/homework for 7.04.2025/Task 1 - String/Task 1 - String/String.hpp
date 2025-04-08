@@ -8,10 +8,14 @@ public:
 	String(char const* string);
 
 	//methods
-	void Copy(const char* str); //kakvo tochno da kopira? ne sum siguren v uslovieto
+	void Copy(const char* str);
 	void Append(const char* str);
+	const char* Combine(const char* str);
 	const char* c_str();
-
+	size_t Length();
+	void Clear();
+	bool Empty();
+	char At(size_t position);
 
 private:
 	char* string;
