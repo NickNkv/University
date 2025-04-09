@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Interval\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9B07E78B-F92C-41B0-9234-FFEA4242E19E}|Interval\\Interval.vcxproj|D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Interval\\Interval\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B07E78B-F92C-41B0-9234-FFEA4242E19E}|Interval\\Interval.vcxproj|solutionrelative:Interval\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9B07E78B-F92C-41B0-9234-FFEA4242E19E}|Interval\\Interval.vcxproj|D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Interval\\Interval\\Interval.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9B07E78B-F92C-41B0-9234-FFEA4242E19E}|Interval\\Interval.vcxproj|solutionrelative:Interval\\Interval.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B07E78B-F92C-41B0-9234-FFEA4242E19E}|Interval\\Interval.vcxproj|D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Interval\\Interval\\Interval.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9B07E78B-F92C-41B0-9234-FFEA4242E19E}|Interval\\Interval.vcxproj|solutionrelative:Interval\\Interval.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B07E78B-F92C-41B0-9234-FFEA4242E19E}|Interval\\Interval.vcxproj|D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Interval\\Interval\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9B07E78B-F92C-41B0-9234-FFEA4242E19E}|Interval\\Interval.vcxproj|solutionrelative:Interval\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,39 +58,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Interval.cpp",
               "DocumentMoniker": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Interval\\Interval\\Interval.cpp",
               "RelativeDocumentMoniker": "Interval\\Interval.cpp",
-              "ToolTip": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Interval\\Interval\\Interval.cpp*",
-              "RelativeToolTip": "Interval\\Interval.cpp*",
-              "ViewState": "AgIAADgAAAAAAAAAAAAnwEgAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Interval\\Interval\\Interval.cpp",
+              "RelativeToolTip": "Interval\\Interval.cpp",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAnwLgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-09T19:07:55.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Interval.hpp",
               "DocumentMoniker": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Interval\\Interval\\Interval.hpp",
               "RelativeDocumentMoniker": "Interval\\Interval.hpp",
-              "ToolTip": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Interval\\Interval\\Interval.hpp*",
-              "RelativeToolTip": "Interval\\Interval.hpp*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "ToolTip": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Interval\\Interval\\Interval.hpp",
+              "RelativeToolTip": "Interval\\Interval.hpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-09T18:53:08.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Interval\\Interval\\main.cpp",
               "RelativeDocumentMoniker": "Interval\\main.cpp",
               "ToolTip": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Interval\\Interval\\main.cpp*",
               "RelativeToolTip": "Interval\\main.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-09T18:52:42.066Z",
               "EditorCaption": ""

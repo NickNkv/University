@@ -23,8 +23,8 @@ public:
 	unsigned NumberOfUniqueDigits();
 	bool IsPowerTwo();
 	Interval Intersect(const Interval& interval);
-	bool IsSubInterval(const Interval& interval);
-
+	bool IsSuperInterval(const Interval& interval);
+	void Print();
 
 private:
 	int a;
