@@ -2,7 +2,7 @@
 
 class Processor {
 public:
-	Processor() = delete;
+	Processor();
 	Processor(double frequency, unsigned int numberOfCores, unsigned int cash);
 
 	double GetFrequency() const;

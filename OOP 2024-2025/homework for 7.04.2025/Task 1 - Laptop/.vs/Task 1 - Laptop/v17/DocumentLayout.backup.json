@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Task 1 - Laptop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C02B8D61-6943-4034-B813-0DC1993E3540}|Task 1 - Laptop\\Task 1 - Laptop.vcxproj|D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Task 1 - Laptop\\Task 1 - Laptop\\Laptop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C02B8D61-6943-4034-B813-0DC1993E3540}|Task 1 - Laptop\\Task 1 - Laptop.vcxproj|solutionrelative:Task 1 - Laptop\\Laptop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C02B8D61-6943-4034-B813-0DC1993E3540}|Task 1 - Laptop\\Task 1 - Laptop.vcxproj|D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Task 1 - Laptop\\Task 1 - Laptop\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C02B8D61-6943-4034-B813-0DC1993E3540}|Task 1 - Laptop\\Task 1 - Laptop.vcxproj|solutionrelative:Task 1 - Laptop\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C02B8D61-6943-4034-B813-0DC1993E3540}|Task 1 - Laptop\\Task 1 - Laptop.vcxproj|D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Task 1 - Laptop\\Task 1 - Laptop\\Processor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C02B8D61-6943-4034-B813-0DC1993E3540}|Task 1 - Laptop\\Task 1 - Laptop.vcxproj|solutionrelative:Task 1 - Laptop\\Processor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C02B8D61-6943-4034-B813-0DC1993E3540}|Task 1 - Laptop\\Task 1 - Laptop.vcxproj|D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Task 1 - Laptop\\Task 1 - Laptop\\Laptop.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C02B8D61-6943-4034-B813-0DC1993E3540}|Task 1 - Laptop\\Task 1 - Laptop.vcxproj|solutionrelative:Task 1 - Laptop\\Laptop.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C02B8D61-6943-4034-B813-0DC1993E3540}|Task 1 - Laptop\\Task 1 - Laptop.vcxproj|D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Task 1 - Laptop\\Task 1 - Laptop\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C02B8D61-6943-4034-B813-0DC1993E3540}|Task 1 - Laptop\\Task 1 - Laptop.vcxproj|solutionrelative:Task 1 - Laptop\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +30,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Laptop.cpp",
+              "DocumentMoniker": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Task 1 - Laptop\\Task 1 - Laptop\\Laptop.cpp",
+              "RelativeDocumentMoniker": "Task 1 - Laptop\\Laptop.cpp",
+              "ToolTip": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Task 1 - Laptop\\Task 1 - Laptop\\Laptop.cpp*",
+              "RelativeToolTip": "Task 1 - Laptop\\Laptop.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-10T11:20:22.792Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Laptop.hpp",
+              "DocumentMoniker": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Task 1 - Laptop\\Task 1 - Laptop\\Laptop.hpp",
+              "RelativeDocumentMoniker": "Task 1 - Laptop\\Laptop.hpp",
+              "ToolTip": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Task 1 - Laptop\\Task 1 - Laptop\\Laptop.hpp",
+              "RelativeToolTip": "Task 1 - Laptop\\Laptop.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-10T08:28:40.616Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -62,54 +94,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Processor.cpp",
-              "DocumentMoniker": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Task 1 - Laptop\\Task 1 - Laptop\\Processor.cpp",
-              "RelativeDocumentMoniker": "Task 1 - Laptop\\Processor.cpp",
-              "ToolTip": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Task 1 - Laptop\\Task 1 - Laptop\\Processor.cpp*",
-              "RelativeToolTip": "Task 1 - Laptop\\Processor.cpp*",
-              "ViewState": "AgIAABkAAAAAAAAAAAAYwDoAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-10T10:00:16.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Processor.hpp",
               "DocumentMoniker": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Task 1 - Laptop\\Task 1 - Laptop\\Processor.hpp",
               "RelativeDocumentMoniker": "Task 1 - Laptop\\Processor.hpp",
-              "ToolTip": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Task 1 - Laptop\\Task 1 - Laptop\\Processor.hpp*",
-              "RelativeToolTip": "Task 1 - Laptop\\Processor.hpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Task 1 - Laptop\\Task 1 - Laptop\\Processor.hpp",
+              "RelativeToolTip": "Task 1 - Laptop\\Processor.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-10T09:46:52.736Z",
+              "WhenOpened": "2025-04-10T11:23:33.775Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Laptop.hpp",
-              "DocumentMoniker": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Task 1 - Laptop\\Task 1 - Laptop\\Laptop.hpp",
-              "RelativeDocumentMoniker": "Task 1 - Laptop\\Laptop.hpp",
-              "ToolTip": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Task 1 - Laptop\\Task 1 - Laptop\\Laptop.hpp",
-              "RelativeToolTip": "Task 1 - Laptop\\Laptop.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-10T08:28:40.616Z",
+              "Title": "Processor.cpp",
+              "DocumentMoniker": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Task 1 - Laptop\\Task 1 - Laptop\\Processor.cpp",
+              "RelativeDocumentMoniker": "Task 1 - Laptop\\Processor.cpp",
+              "ToolTip": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Task 1 - Laptop\\Task 1 - Laptop\\Processor.cpp",
+              "RelativeToolTip": "Task 1 - Laptop\\Processor.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-10T11:23:28.647Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Task 1 - Laptop\\Task 1 - Laptop\\main.cpp",
               "RelativeDocumentMoniker": "Task 1 - Laptop\\main.cpp",
               "ToolTip": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Task 1 - Laptop\\Task 1 - Laptop\\main.cpp",
               "RelativeToolTip": "Task 1 - Laptop\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-10T08:27:41.81Z"
+              "WhenOpened": "2025-04-10T08:27:41.81Z",
+              "EditorCaption": ""
             }
           ]
         }

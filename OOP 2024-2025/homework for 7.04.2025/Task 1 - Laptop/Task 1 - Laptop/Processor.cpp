@@ -2,6 +2,8 @@
 #include <iostream>
 #include <exception>
 
+Processor::Processor(): Processor(3, 1, 1) {}
+
 Processor::Processor(double frequency, unsigned int numberOfCores, unsigned cash) {
 	if (frequency <= 0) {
 		throw std::invalid_argument("Invalid frequency param!");
@@ -17,6 +19,7 @@ Processor::Processor(double frequency, unsigned int numberOfCores, unsigned cash
 	this->numberOfCores = numberOfCores;
 	this->cash = cash;
 }
+
 
 double Processor::GetFrequency() const {
 	return this->frequency;
