@@ -74,3 +74,9 @@ Laptop::Laptop(const Laptop& o) {
 	this->ram = o.ram;
 	this->battery = o.battery;
 }
+
+Laptop& Laptop::operator=(const Laptop& laptop) {
+	if (this != &laptop) {
+		 
+	}
+}

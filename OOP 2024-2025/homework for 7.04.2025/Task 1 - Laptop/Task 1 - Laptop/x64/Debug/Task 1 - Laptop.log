@@ -1,5 +1,5 @@
 ﻿  Laptop.cpp
   main.cpp
-D:\Documents\Github\University\OOP 2024-2025\homework for 7.04.2025\Task 1 - Laptop\Task 1 - Laptop\main.cpp(5,9): warning C4930: 'Laptop patop(void)': prototyped function not called (was a variable definition intended?)
   Generating Code...
-  Task 1 - Laptop.vcxproj -> D:\Documents\Github\University\OOP 2024-2025\homework for 7.04.2025\Task 1 - Laptop\x64\Debug\Task 1 - Laptop.exe
+D:\Documents\Github\University\OOP 2024-2025\homework for 7.04.2025\Task 1 - Laptop\Task 1 - Laptop\main.cpp(5,9): warning C4930: 'Laptop patop(void)': prototyped function not called (was a variable definition intended?)
+D:\Documents\Github\University\OOP 2024-2025\homework for 7.04.2025\Task 1 - Laptop\Task 1 - Laptop\Laptop.cpp(82,1): error C4716: 'Laptop::operator=': must return a value

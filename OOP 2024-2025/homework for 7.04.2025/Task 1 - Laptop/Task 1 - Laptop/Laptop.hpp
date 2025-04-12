@@ -6,7 +6,7 @@ public:
 	Laptop();
 	Laptop(const char* brand, const char* model, double price, double screenLen, Processor processor, unsigned ram, unsigned battery);
 	Laptop(const Laptop& o);
-
+	Laptop& operator=(const Laptop& laptop);
 
 private:
 	char* brand;
