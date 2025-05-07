@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Test project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C31D280B-0BBB-4F4F-B705-FAC10D4F6B46}|Test project\\Test project.vcxproj|D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Test project\\Test project\\Person.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C31D280B-0BBB-4F4F-B705-FAC10D4F6B46}|Test project\\Test project.vcxproj|solutionrelative:Test project\\Person.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C31D280B-0BBB-4F4F-B705-FAC10D4F6B46}|Test project\\Test project.vcxproj|D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Test project\\Test project\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C31D280B-0BBB-4F4F-B705-FAC10D4F6B46}|Test project\\Test project.vcxproj|solutionrelative:Test project\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C31D280B-0BBB-4F4F-B705-FAC10D4F6B46}|Test project\\Test project.vcxproj|D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Test project\\Test project\\Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C31D280B-0BBB-4F4F-B705-FAC10D4F6B46}|Test project\\Test project.vcxproj|solutionrelative:Test project\\Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C31D280B-0BBB-4F4F-B705-FAC10D4F6B46}|Test project\\Test project.vcxproj|D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Test project\\Test project\\Person.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C31D280B-0BBB-4F4F-B705-FAC10D4F6B46}|Test project\\Test project.vcxproj|solutionrelative:Test project\\Person.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,39 +58,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Person.cpp",
               "DocumentMoniker": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Test project\\Test project\\Person.cpp",
               "RelativeDocumentMoniker": "Test project\\Person.cpp",
-              "ToolTip": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Test project\\Test project\\Person.cpp*",
-              "RelativeToolTip": "Test project\\Person.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABLAAAAAAAAAA==",
+              "ToolTip": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Test project\\Test project\\Person.cpp",
+              "RelativeToolTip": "Test project\\Person.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-12T18:35:54.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T18:35:54.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.hpp",
+              "DocumentMoniker": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Test project\\Test project\\Person.hpp",
+              "RelativeDocumentMoniker": "Test project\\Person.hpp",
+              "ToolTip": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Test project\\Test project\\Person.hpp",
+              "RelativeToolTip": "Test project\\Person.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-12T18:34:41.618Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Person.hpp",
-              "DocumentMoniker": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Test project\\Test project\\Person.hpp",
-              "RelativeDocumentMoniker": "Test project\\Person.hpp",
-              "ToolTip": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Test project\\Test project\\Person.hpp*",
-              "RelativeToolTip": "Test project\\Person.hpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-12T18:34:41.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Test project\\Test project\\main.cpp",
               "RelativeDocumentMoniker": "Test project\\main.cpp",
-              "ToolTip": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Test project\\Test project\\main.cpp*",
-              "RelativeToolTip": "Test project\\main.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "ToolTip": "D:\\Documents\\Github\\University\\OOP 2024-2025\\homework for 7.04.2025\\Test project\\Test project\\main.cpp",
+              "RelativeToolTip": "Test project\\main.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAwwDwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-12T18:33:55.222Z",
               "EditorCaption": ""
