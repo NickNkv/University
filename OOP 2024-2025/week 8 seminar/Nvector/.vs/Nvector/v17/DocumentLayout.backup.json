@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\Github\\University\\OOP 2024-2025\\week 8 seminar\\Nvector\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nikol\\Downloads\\Rational.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E76FE1-68BB-4DBE-B9DE-08601082CA40}|Nvector\\Nvector.vcxproj|D:\\Documents\\Github\\University\\OOP 2024-2025\\week 8 seminar\\Nvector\\Nvector\\Nvector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98E76FE1-68BB-4DBE-B9DE-08601082CA40}|Nvector\\Nvector.vcxproj|solutionrelative:Nvector\\Nvector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E76FE1-68BB-4DBE-B9DE-08601082CA40}|Nvector\\Nvector.vcxproj|D:\\Documents\\Github\\University\\OOP 2024-2025\\week 8 seminar\\Nvector\\Nvector\\Nvector.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98E76FE1-68BB-4DBE-B9DE-08601082CA40}|Nvector\\Nvector.vcxproj|solutionrelative:Nvector\\Nvector.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nikol\\Downloads\\Array (1).h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E76FE1-68BB-4DBE-B9DE-08601082CA40}|Nvector\\Nvector.vcxproj|D:\\Documents\\Github\\University\\OOP 2024-2025\\week 8 seminar\\Nvector\\Nvector\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98E76FE1-68BB-4DBE-B9DE-08601082CA40}|Nvector\\Nvector.vcxproj|solutionrelative:Nvector\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nikol\\Downloads\\Rational.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nikol\\Downloads\\Array (1).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Array (1).cpp",
+              "DocumentMoniker": "C:\\Users\\nikol\\Downloads\\Array (1).cpp",
+              "ToolTip": "C:\\Users\\nikol\\Downloads\\Array (1).cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-16T15:22:13.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Array (1).h",
+              "DocumentMoniker": "C:\\Users\\nikol\\Downloads\\Array (1).h",
+              "ToolTip": "C:\\Users\\nikol\\Downloads\\Array (1).h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-16T15:22:08.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rational.cpp",
+              "DocumentMoniker": "C:\\Users\\nikol\\Downloads\\Rational.cpp",
+              "ToolTip": "C:\\Users\\nikol\\Downloads\\Rational.cpp",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-16T15:06:29.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rational.h",
+              "DocumentMoniker": "C:\\Users\\nikol\\Downloads\\Rational.h",
+              "ToolTip": "C:\\Users\\nikol\\Downloads\\Rational.h*",
+              "ViewState": "AgIAADUAAAAAAAAAAAAkwEAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-16T15:06:25.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Nvector.cpp",
+              "DocumentMoniker": "D:\\Documents\\Github\\University\\OOP 2024-2025\\week 8 seminar\\Nvector\\Nvector\\Nvector.cpp",
+              "RelativeDocumentMoniker": "Nvector\\Nvector.cpp",
+              "ToolTip": "D:\\Documents\\Github\\University\\OOP 2024-2025\\week 8 seminar\\Nvector\\Nvector\\Nvector.cpp",
+              "RelativeToolTip": "Nvector\\Nvector.cpp",
+              "ViewState": "AgIAAHYAAAAAAAAAAAApwIQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-15T11:21:12.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nvector.hpp",
+              "DocumentMoniker": "D:\\Documents\\Github\\University\\OOP 2024-2025\\week 8 seminar\\Nvector\\Nvector\\Nvector.hpp",
+              "RelativeDocumentMoniker": "Nvector\\Nvector.hpp",
+              "ToolTip": "D:\\Documents\\Github\\University\\OOP 2024-2025\\week 8 seminar\\Nvector\\Nvector\\Nvector.hpp",
+              "RelativeToolTip": "Nvector\\Nvector.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-14T15:04:11.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Documents\\Github\\University\\OOP 2024-2025\\week 8 seminar\\Nvector\\Nvector\\main.cpp",
+              "RelativeDocumentMoniker": "Nvector\\main.cpp",
+              "ToolTip": "D:\\Documents\\Github\\University\\OOP 2024-2025\\week 8 seminar\\Nvector\\Nvector\\main.cpp",
+              "RelativeToolTip": "Nvector\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-14T15:02:27.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

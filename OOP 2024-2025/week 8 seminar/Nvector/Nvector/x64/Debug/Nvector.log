@@ -1,0 +1,16 @@
+﻿  Nvector.cpp
+D:\Documents\Github\University\OOP 2024-2025\week 8 seminar\Nvector\Nvector\Nvector.cpp(36,20): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Github\University\OOP 2024-2025\week 8 seminar\Nvector\Nvector\Nvector.cpp(56,20): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Github\University\OOP 2024-2025\week 8 seminar\Nvector\Nvector\Nvector.cpp(72,21): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Github\University\OOP 2024-2025\week 8 seminar\Nvector\Nvector\Nvector.cpp(73,10): warning C4018: '>=': signed/unsigned mismatch
+D:\Documents\Github\University\OOP 2024-2025\week 8 seminar\Nvector\Nvector\Nvector.cpp(87,21): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Github\University\OOP 2024-2025\week 8 seminar\Nvector\Nvector\Nvector.cpp(98,21): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Github\University\OOP 2024-2025\week 8 seminar\Nvector\Nvector\Nvector.cpp(99,10): warning C4018: '>=': signed/unsigned mismatch
+D:\Documents\Github\University\OOP 2024-2025\week 8 seminar\Nvector\Nvector\Nvector.cpp(113,21): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Github\University\OOP 2024-2025\week 8 seminar\Nvector\Nvector\Nvector.cpp(138,20): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Github\University\OOP 2024-2025\week 8 seminar\Nvector\Nvector\Nvector.cpp(145,19): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+D:\Documents\Github\University\OOP 2024-2025\week 8 seminar\Nvector\Nvector\Nvector.cpp(146,19): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+D:\Documents\Github\University\OOP 2024-2025\week 8 seminar\Nvector\Nvector\Nvector.cpp(150,21): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  Nvector.vcxproj -> D:\Documents\Github\University\OOP 2024-2025\week 8 seminar\Nvector\x64\Debug\Nvector.exe
