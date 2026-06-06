@@ -16,6 +16,7 @@ public:
 	double getRemainingBudget() const { return budget - spent; }
 
 	void print();
+	void removeCheapest(const char* brand);
 
 private:
 	const double budget;

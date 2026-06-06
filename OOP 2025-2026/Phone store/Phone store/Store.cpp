@@ -72,6 +72,26 @@ bool Store::addPhone(const Phone& phone)
 	return true;
 }
 
+void Store::sell(const char* model, const char* brand)
+{
+	if (!this->phones) {
+		std::cout << "The store is empty";
+		return;
+	}
+
+	for (size_t i = 0; i < this->allocated; i++) {
+		if (!this->phones[i]) {
+			continue;
+		}
+		if (strcmp(this->phones[i]->getModel(), model) == 0 && strcmp(this->phones[i]->getBrand(), brand) == 0) {
+			this->spent -= this->phones[i]->getPrice();
+			delete this->phones[i];
+			this->phones[i] = nullptr;
+			this->count--;
+		}
+	}
+}
+
 void Store::print()
 {
 	if (!this->phones) {
@@ -84,6 +104,46 @@ void Store::print()
 			this->phones[i]->print();
 			std::cout << "\n";
 		}
+	}
+}
+
+void Store::removeCheapest(const char* brand)
+{
+	if (!this->phones) {
+		std::cout << "The store is empty";
+		return;
+	}
+
+	size_t target = 0;
+	double minSum = 0;
+	bool isFound = false;
+
+	for (size_t i = 0; i < this->allocated; i++) {
+		if (!this->phones[i]) {
+			continue;
+		}
+
+		if (strcmp(brand, this->phones[i]->getBrand()) == 0) {
+			if (!isFound) {
+				target = i;
+				minSum = this->phones[i]->getPrice();
+				isFound = true;
+				continue;
+			}
+
+			if (this->phones[i]->getPrice() < minSum) {
+				target = i;
+				minSum = this->phones[target]->getPrice();
+			}
+		}
+	}
+
+	if (isFound) {
+		delete this->phones[target];
+		this->phones[target] = nullptr;
+	}
+	else {
+		std::cout << "There are no " << brand << " phones\n";
 	}
 }
 
