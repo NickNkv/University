@@ -6,7 +6,7 @@ public:
 	Phone(const char* model, const char* brand, double price);
 	Phone(const Phone& other);
 	Phone& operator = (const Phone& other);
-	~Phone();
+	virtual ~Phone();
 
 	const char* getModel() const { return model; }
 	void setModel(const char* model);
@@ -14,7 +14,7 @@ public:
 	const char* getBrand() const { return brand; }
 	void setBrand(const char* brand);
 
-	double getPrice() const { return price; }
+	virtual double getPrice() const { return price; }
 	void setPrice(double price);
 
 private:

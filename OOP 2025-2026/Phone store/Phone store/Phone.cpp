@@ -11,8 +11,8 @@ Phone::Phone(const char* model, const char* brand, double price)
 	if (!brand || strlen(brand) == 0) {
 		throw std::invalid_argument("Brand can not be a nullptr or empty!");
 	}
-	if (price < 0) {
-		throw std::invalid_argument("Price can not be a negative number!");
+	if (price <= 0) {
+		throw std::invalid_argument("Price must be a positive number!");
 	}
 
 	this->model = new char[strlen(model) + 1];
@@ -98,8 +98,8 @@ void Phone::setBrand(const char* brand)
 
 void Phone::setPrice(double price)
 {
-	if (price < 0) {
-		throw std::invalid_argument("Price can not be a negative number!");
+	if (price <= 0) {
+		throw std::invalid_argument("Price must be a positive number!");
 	}
 
 	this->price = price;
