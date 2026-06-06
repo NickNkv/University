@@ -10,6 +10,7 @@ public:
 	Smartphone(const Smartphone& other);
 	Smartphone& operator = (const Smartphone& other);
 	~Smartphone() override;
+	Smartphone* clone() const override { return new Smartphone(*this); }
 
 	const char* getOS() const { return os; }
 	void setOS(const char* os);
@@ -18,6 +19,8 @@ public:
 	void setMemory(unsigned int memory);
 
 	double getPrice() const override { return Phone::getPrice() + memory; }
+
+	void print() override;
 
 private:
 	char* os;

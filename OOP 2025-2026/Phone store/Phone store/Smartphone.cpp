@@ -77,3 +77,8 @@ void Smartphone::setMemory(unsigned int memory)
 
 	this->memory = memory;
 }
+
+void Smartphone::print()
+{
+	std::cout << "Model: " << this->getModel() << "  Brand: " << this->getBrand() << "   Price: " << this->getPrice() << "  OS: " << this->os << "   Memory: " << this->memory << "\n";
+}

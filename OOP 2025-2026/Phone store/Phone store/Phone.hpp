@@ -7,6 +7,7 @@ public:
 	Phone(const Phone& other);
 	Phone& operator = (const Phone& other);
 	virtual ~Phone();
+	virtual Phone* clone() const { return new Phone(*this); }
 
 	const char* getModel() const { return model; }
 	void setModel(const char* model);
@@ -16,6 +17,8 @@ public:
 
 	virtual double getPrice() const { return price; }
 	void setPrice(double price);
+
+	virtual void print();
 
 private:
 	char* model;

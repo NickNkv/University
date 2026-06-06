@@ -104,3 +104,8 @@ void Phone::setPrice(double price)
 
 	this->price = price;
 }
+
+void Phone::print()
+{
+	std::cout << "Model: " << this->model << "  Brand: " << this->brand << "   Price: " << this->price << "\n";
+}
